@@ -1,0 +1,529 @@
+Id,Title,Senior,Company,Location,Currency,date,Salary_min,Salary_max
+1,Senior Python Computer Vision Engineer,True,Unitem,Wrocław,PLN,01.01.2023,15 000,20 000
+2,Senior/Lead Data Scientist,True,Addepto,Zdalnie  + 5,PLN,01.01.2023,18 480,35 280
+3,Mid/Senior Python AI Engineer,True,Vestigit,Wrocław,PLN,01.01.2023,17 000,22 000
+4,AI Developer with ROS,False,Four Point,Wrocław,PLN,01.01.2023,15 000,28 000
+5,NLP Developer,False,Talkie.ai,Zdalnie,PLN,01.01.2023,12 000,20 000
+6,Cloud Apps Engineer,False,ERGO Technology &amp; Services,Zdalnie  + 2,PLN,01.01.2023,12 000,19 000
+7,Python Developer / ML Engineer,False,hubQuest,Zdalnie  + 1,PLN,01.01.2023,20 000,27 000
+8,Senior Machine Learning Engineer (NLP),True,Netguru,Zdalnie,PLN,01.01.2023,18 000,26 000
+9,(Senior) Data Scientist,True,Netguru S.A.,Zdalnie,PLN,01.01.2023,21 486,30 827
+10,Data Scientist Lead,True,Objectivity,Zdalnie  + 2,PLN,01.01.2023,30 240,38 640
+11,Cloud Automation Engineer,False,ERGO Technology &amp; Services,Zdalnie  + 2,PLN,01.01.2023,16 000,26 000
+12,Cloud Solutions Architect,False,Grape Up,Kraków   + 2,PLN,01.01.2023,22 100,35 700
+13,Machine Learning Engineer,False,RTB House,Zdalnie  + 1,PLN,01.01.2023,28 500,47 000
+14,Machine Learning Researcher,False,RTB House,Zdalnie  + 2,PLN,01.01.2023,28 500,47 000
+15,Cloud DevOps Engineer,False,ERGO Technology &amp; Services,Zdalnie  + 2,PLN,01.01.2023,16 000,26 000
+16,ML Architect,False,Concentrix,Zdalnie,PLN,01.01.2023,400 000,450 000
+17,Regular / Senior Data Scientist,True,hubQuest,Zdalnie  + 1,PLN,01.01.2023,20 000,28 500
+18,AI/ML Data Labeling Manager,False,Focal Systems,Zdalnie,PLN,01.01.2023,22 000,30 000
+19,Senior Machine Learning NLP Engineer,True,Kinetix Trading Solutions,Zdalnie  + 8,PLN,01.01.2023,25 000,35 000
+20,AI Researcher,False,Ardigen,Kraków,PLN,01.01.2023,9 000,18 000
+21,IT Developer/Scala Developer,False,Flaire,Zdalnie,PLN,01.01.2023,21 000,22 680
+22,Solution Architect (RPA Developer),False,Devire Sp. z o.o.,Zdalnie  + 1,PLN,01.01.2023,20 000,23 000
+23,Head of Software Development,False,ATLANT 3D Nanosystems,Taastrup,PLN,01.01.2023,37 367,51 379
+24,Machine Learning Operations Engineer,False,Silent Eight,Zdalnie,PLN,01.01.2023,12 000,20 000
+25,Data Scientist,False,Numlabs,Zdalnie  + 1,PLN,01.01.2023,10 000,15 000
+26,Python Developer with Computer Vision,False,Numlabs,Zdalnie  + 1,PLN,01.01.2023,10 000,15 000
+27,Senior Data Scientist,True,InData Labs,Zdalnie,PLN,01.01.2023,26 382,39 573
+28,Python Developer,False,Ardigen,Kraków,PLN,01.01.2023,10 000,18 000
+29,Deep Learning Engineer,False,ReSpo.Vision,Warszawa,PLN,01.01.2023,14 000,20 000
+30,Python AI Developer with Robotics Exp.,False,Unitem,Wrocław,PLN,01.01.2023,17 000,23 000
+31,Data Engineer,False,Unit8 SA,Kraków   + 1,PLN,01.01.2023,22 000,26 000
+32,Junior Python AI Developer,False,Walksee,Zdalnie  + 1,PLN,01.01.2023,6 000,8 000
+33,Machine Learning Engineer,False,Ardigen,Zdalnie  + 1,PLN,01.01.2023,13 000,25 000
+34,Junior Cloud Engineer,False,Reply Polska,Zdalnie,PLN,01.01.2023,5 000,9 000
+35,Mid-Integration developer in AI field,False,Ultinous Zrt.,Budapest,PLN,01.01.2023,10 628,12 989
+36,Machine Learning Engineer,False,ALM Services Technology Group,Zdalnie,PLN,01.02.2023,17 000,30 000
+37,Senior Data Engineer,True,ASTEK Polska,Zdalnie,PLN,01.02.2023,26 880,29 400
+38,Data Scientist,False,Sales&amp;More,Zdalnie,PLN,01.02.2023,7 500,15 000
+39,NLP Engineer,False,Antal Sp. z.o.o.,Warszawa,PLN,01.02.2023,16 000,22 000
+40,Konsultant Modelowania Ryzyka,False,Polskie Technologie,Warszawa,PLN,01.02.2023,8 700,13 100
+41,NLP Developer,False,Talkie.ai,Zdalnie,PLN,01.02.2023,12 000,20 000
+42,AI Developer with ROS,False,Four Point,Wrocław,PLN,01.02.2023,15 000,28 000
+43,Senior/ Lead Data Scientist,True,Adform Sp. z o.o.,Warszawa,PLN,01.02.2023,24 000,30 000
+44,Python Developer / ML Engineer,False,hubQuest,Zdalnie,PLN,01.02.2023,20 000,27 000
+45,Computer Vision Engineer,False,Infracert TSI,Warszawa,PLN,01.02.2023,16 000,24 000
+46,Senior Python Computer Vision Engineer,True,Unitem,Wrocław,PLN,01.02.2023,15 000,20 000
+47,Machine Learning Engineer (Senior),True,Tooploox,Zdalnie,PLN,01.02.2023,18 000,26 000
+48,Computer Vision Engineer (Senior),True,Tooploox,Zdalnie,PLN,01.02.2023,18 000,26 000
+49,Cloud DevOps Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.02.2023,16 000,26 000
+50,Remote ML Developer Researcher,False,Galaktus Agency,Zdalnie,PLN,01.02.2023,26 400,33 000
+51,Remote Lead ML Developer Researcher,True,Galaktus Agency,Zdalnie,PLN,01.02.2023,28 500,35 500
+52,Senior Research Scientist,True,Snowflake,Warszawa,PLN,01.02.2023,35 000,70 000
+53,Data Scientist/ AI Product Owner,False,Britenet,Lublin,PLN,01.02.2023,18 480,21 000
+54,Data Scientist Lead,True,Objectivity,Zdalnie,PLN,01.02.2023,30 240,38 640
+55,Cloud Automation Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.02.2023,16 000,26 000
+56,Cloud Apps Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.02.2023,12 000,19 000
+57,Regular / Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.02.2023,20 000,28 500
+58,Data Engineer,False,Unit8 SA,Kraków,PLN,01.02.2023,22 000,26 000
+59,Computer Vision / ML ENGINEER,False,AUTOMADE,Zdalnie,PLN,01.02.2023,14 000,26 000
+60,AI/ML Data Labeling Manager,False,Focal Systems,Zdalnie,PLN,01.02.2023,22 000,30 000
+61,Junior Cloud Engineer,False,Reply Polska,Zdalnie,PLN,01.02.2023,5 000,9 000
+62,Cloud Automation Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.03.2023,16 000,26 000
+63,"AI &amp; Math (PhD, Postdoctoral Preferable)",False,Camino Science Sp. z o. o.,Zdalnie,PLN,01.03.2023,16 000,25 000
+64,Research Manager,False,Snowflake,Warszawa,PLN,01.03.2023,30 000,60 000
+65,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.03.2023,44 700,74 600
+66,Data Science Internship,False,Ringier Axel Springer Tech,Kraków,PLN,01.03.2023,3 800,
+67,Machine Learning Engineer,False,hubQuest,Zdalnie,PLN,01.03.2023,20 000,27 000
+68,Senior Machine Learning NLP Engineer,True,Kinetix Trading Solutions,Zdalnie,PLN,01.03.2023,25 000,35 000
+69,Machine Learning Engineer,False,Sense Software,Zdalnie,PLN,01.03.2023,15 000,23 000
+70,Data Science MLOps,False,PKO Finat Sp. z o.o.,Warszawa,PLN,01.03.2023,18 480,23 520
+71,Sr Data Scientist - Commercial Analytics,False,Bayer Sp. z o.o.,Warszawa,PLN,01.03.2023,20 000,26 000
+72,Data Scientist - Operations Research,False,Bayer Sp. z o.o.,Warszawa,PLN,01.03.2023,20 000,26 000
+73,Mid Machine Learning Engineer,False,EWL Group,Warszawa,PLN,01.03.2023,15 000,25 000
+74,Data Engineer,False,Unit8 SA,Kraków,PLN,01.03.2023,22 000,26 000
+75,Regular / Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.03.2023,20 000,28 500
+76,Senior Data Scientist,True,Bayer Sp. z o.o.,Warszawa,PLN,01.03.2023,16 000,28 000
+77,Solution Architect,False,Algomine,Zdalnie,PLN,01.03.2023,25 200,33 600
+78,Data Scientist,False,EMPIK S. A.,Warszawa,PLN,01.03.2023,10 000,15 000
+79,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.03.2023,74 000,119 000
+80,Machine Learning Researcher,False,RTB House,Zdalnie,PLN,01.03.2023,30 000,47 000
+81,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.03.2023,30 000,47 000
+82,Data Scientist,False,Axiom Health,Sopot,PLN,01.03.2023,26 775,35 700
+83,Data Scientist/AI Developer,False,Algomine,Zdalnie,PLN,01.03.2023,13 440,25 200
+84,Junior Cloud Engineer,False,Reply Polska,Zdalnie,PLN,01.03.2023,5 000,9 000
+85,Tech Lead  (IT - AI - Astrodynamics),True,Arcadia Astronautics,Budapest,PLN,01.03.2023,22 203,29 604
+86,Machine Learning Engineer,False,ALM Services Technology Group,Zdalnie,PLN,01.04.2023,17 000,30 000
+87,Senior Python Engineer ( AI Squad ),True,Lepaya,Amsterdam,PLN,01.04.2023,27 336,37 099
+88,Machine Learning Specialist,False,ALTEN Polska,Zdalnie,PLN,01.04.2023,2 604,3 675
+89,Mid/Senior MLOps Engineer,True,GetInData | Part of Xebia,Zdalnie,PLN,01.04.2023,16 800,33 600
+90,Cloud Automation Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.04.2023,16 000,26 000
+91,Regular / Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.04.2023,20 000,28 500
+92,Machine Learning Engineer,False,hubQuest,Zdalnie,PLN,01.04.2023,20 000,27 000
+93,Cloud DevOps Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.04.2023,16 000,26 000
+94,Deep learning (Computer Vision) Engineer,False,New Security Systems,Zdalnie,PLN,01.04.2023,14 000,24 000
+95,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.04.2023,30 000,47 000
+96,Machine Learning Researcher,False,RTB House,Zdalnie,PLN,01.04.2023,30 000,47 000
+97,Senior/Expert Machine Learning Engineer,True,Digital Hub Warsaw at Bayer,Warszawa,PLN,01.04.2023,20 000,28 000
+98,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.04.2023,74 000,119 000
+99,Python Developer (AI/ML),False,Decerto Sp. z o.o.,Zdalnie,PLN,01.04.2023,24 000,
+100,"AI &amp; Math (PhD, Postdoctoral Preferable)",False,Camino Science sp. z o.o.,Zdalnie,PLN,01.04.2023,16 000,25 000
+101,Customer Success ML Engineer,False,Synerise,Zdalnie,PLN,01.04.2023,10 000,20 000
+102,MLOps Engineer,False,LiveChat,Zdalnie,PLN,01.04.2023,18 000,34 000
+103,AI Architect,False,Astrokyon,Zdalnie,PLN,01.04.2023,18 000,24 000
+104,Machine Learning Engineer,False,SENSE Software,Sopot,PLN,01.04.2023,15 000,23 000
+105,Machine Learning Specialist,False,InPhoTech,Ołtarzew,PLN,01.04.2023,30 000,38 000
+106,Senior Research Scientist,True,Snowflake,Warszawa,PLN,01.04.2023,35 000,60 000
+107,Data Scientist Lead,True,Objectivity,Zdalnie,PLN,01.04.2023,30 240,38 640
+108,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.04.2023,44 700,74 600
+109,Senior Data Scientist,True,HERO LABS,Łódź,PLN,01.04.2023,25 000,30 000
+110,Senior AI Researcher,True,Ardigen,Kraków,PLN,01.04.2023,18 000,23 000
+111,AI Engineer,False,Visimind,Olsztyn,PLN,01.04.2023,8 000,12 000
+112,Senior Research Engineer (Optimization),True,SoftServe,Zdalnie,PLN,01.04.2023,20 000,26 000
+113,Senior Data Engineer,True,Competera,Zdalnie,PLN,01.04.2023,17 172,27 905
+114,ML Developer,False,Ework Group,Warszawa,PLN,01.04.2023,20 160,25 200
+115,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.04.2023,92 250,180 811
+116,Data Scientist/AI Developer,False,Algomine,Zdalnie,PLN,01.04.2023,13 440,25 200
+117,Senior Machine Learning Engineer,True,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.04.2023,11 214,22 429
+118,Machine Learning Researcher,False,RTB House,Zdalnie,PLN,01.05.2023,30 000,47 000
+119,PhD student in Reinforcement Learning,False,Uniwersytet Jagielloński,Kraków,PLN,01.05.2023,12 550,
+120,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.05.2023,92 250,180 811
+121,Remote Senior ML Developer,True,Link Group,Zdalnie,PLN,01.05.2023,22 000,32 000
+122,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.05.2023,74 000,119 000
+123,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.05.2023,44 700,74 600
+124,Machine Learning Engineer NLP,False,Saventic Health,Warszawa,PLN,01.05.2023,12 000,18 000
+125,Data Scientist Lead,True,Objectivity,Zdalnie,PLN,01.05.2023,30 240,38 640
+126,MLOps Engineer,False,LiveChat,Zdalnie,PLN,01.05.2023,18 000,34 000
+127,MLOps Platform Engineer,False,PKO Finat Sp. z o.o.,Warszawa,PLN,01.05.2023,16 800,21 840
+128,Research Manager,False,Snowflake,Warszawa,PLN,01.05.2023,30 000,60 000
+129,Mid/Senior MLOps Engineer,True,GetInData | Part of Xebia,Zdalnie,PLN,01.05.2023,16 800,33 600
+130,Senior Python Engineer ( AI Squad ),True,Lepaya,Amsterdam,PLN,01.05.2023,26 766,36 325
+131,Cloud DevOps Engineer,False,ERGO Technology &amp; Services,Zdalnie,PLN,01.05.2023,16 000,26 000
+132,Senior Machine Learning Engineer,True,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.05.2023,11 059,22 118
+133,Python Developer (Physics - AI),False,Arcadia Astronautics,Budapest,PLN,01.05.2023,14 745,24 576
+134,Machine Learning Engineer,False,Quickchat AI,Warszawa,PLN,01.06.2023,12 566,25 132
+135,AI Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,12 000,21 000
+136,Test Engineer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,12 000,21 000
+137,Application Support Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,12 000,21 000
+138,Java Developer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,12 000,22 000
+139,Integration Specialist AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,12 000,21 000
+140,Senior Project Manager - Data Labeling,True,Focal Systems,Zdalnie,PLN,01.06.2023,22 000,30 000
+141,Machine Learning Engineer,False,AI Clearing,Warszawa,PLN,01.06.2023,14 000,20 000
+142,Machine Learning Operations,False,Four Point,Wrocław,PLN,01.06.2023,12 000,20 000
+143,AI &amp; Math (PhD/ongoing PHD preferable),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.06.2023,16 000,25 000
+144,Remote Senior NLP Engineer,True,Sigmoidal LLC,Zdalnie,PLN,01.06.2023,25 132,35 394
+145,Python Developer with Computer Vision,False,Numlabs,Zdalnie,PLN,01.06.2023,10 000,15 000
+146,Python Machine Learning Engineer,False,Numlabs,Zdalnie,PLN,01.06.2023,13 000,17 000
+147,Data Scientist,False,Numlabs,Zdalnie,PLN,01.06.2023,10 000,15 000
+148,Senior Data Scientist,True,Axiom Health,Sopot,PLN,01.06.2023,25 132,33 509
+149,Machine Learning Engineer (XAI project),False,10 Senses,Warszawa,PLN,01.06.2023,25 200,33 600
+150,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.06.2023,92 250,180 811
+151,Machine Learning Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,18 000,26 000
+152,Data Scientist AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,19 000,32 000
+153,Python Developer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.06.2023,17 000,28 000
+154,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.06.2023,44 700,74 600
+155,Machine Learning Engineer (Mid),False,Tooploox,Zdalnie,PLN,01.06.2023,13 000,19 000
+156,Machine Learning Engineer (Senior),True,Tooploox,Zdalnie,PLN,01.06.2023,18 000,26 000
+157,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.06.2023,74 000,119 000
+158,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.06.2023,10 000,14 000
+159,AI Engineer - Custom LLM Models,False,Chorus One,Zdalnie,PLN,01.06.2023,33 592,44 790
+160,Machine Learning Engineer,False,hubQuest,Zdalnie,PLN,01.06.2023,20 000,27 000
+161,AI Engineer,False,CDeX,Zdalnie,PLN,01.06.2023,27 000,32 000
+162,Remote Fullstack Python Developer,False,Decerto Sp. z o.o.,Zdalnie,PLN,01.06.2023,24 000,
+163,Mid AI Engineer,False,Vestigit,Wrocław,PLN,01.06.2023,12 000,17 000
+164,Senior AI Engineer,True,Vestigit,Wrocław,PLN,01.06.2023,20 000,25 000
+165,MLOps Platform Engineer,False,PKO Finat Sp. z o.o.,Warszawa,PLN,01.06.2023,16 800,21 840
+166,Lead Python + Django AI,True,Ideamotive,Zdalnie,PLN,01.06.2023,24 000,37 000
+167,Applied Scientist (Mid/Senior),True,Infermedica Sp z.o.o,Zdalnie,PLN,01.06.2023,20 000,25 000
+168,Senior Machine Learning Engineer,True,Sigmoidal LLC,Zdalnie,PLN,01.06.2023,25 132,35 394
+169,Senior Applied Research Scientist,True,Infermedica Sp z.o.o,Zdalnie,PLN,01.06.2023,20 000,25 000
+170,Regular / Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.06.2023,20 000,28 500
+171,Remote Backend/AI Engineer (Golang),False,Bash,Zdalnie,PLN,01.06.2023,14 000,24 000
+172,Remote Senior Project Manager - AI,True,Thoriana Sp. z o.o.,Zdalnie,PLN,01.06.2023,17 000,22 000
+173,Junior Analyst - AI,False,Thoriana Sp. z o.o.,Warszawa,PLN,01.06.2023,8 000,12 000
+174,Remote Mid Analyst - AI,False,Thoriana Sp. z o.o.,Zdalnie,PLN,01.06.2023,12 000,16 000
+175,Remote Mid Project Manager - AI,False,Thoriana Sp. z o.o.,Zdalnie,PLN,01.06.2023,12 000,16 000
+176,Programista / Programistka AI,False,BeSafe24,Poznań,PLN,01.06.2023,6 000,9 000
+177,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.06.2023,30 000,47 000
+178,Mid/Senior MLOps Engineer,True,GetInData | Part of Xebia,Zdalnie,PLN,01.06.2023,16 800,33 600
+179,Senior Machine Learning NLP LLM Engineer,True,Kinetix Trading Solutions,Zdalnie,PLN,01.06.2023,25 000,32 000
+180,Data Scientist,False,Sales&amp;More,Zdalnie,PLN,01.06.2023,7 500,15 000
+181,PhD student in Reinforcement Learning,False,Uniwersytet Jagielloński,Kraków,PLN,01.06.2023,12 550,
+182,Senior Python Computer Vision Engineer,True,Unitem,Wrocław,PLN,01.06.2023,15 000,20 000
+183,Data Scientist Lead,True,Objectivity,Zdalnie,PLN,01.06.2023,30 240,38 640
+184,Remote MLOps Engineer,False,LiveChat,Zdalnie,PLN,01.06.2023,18 000,34 000
+185,Application Support Engineer,False,Recruby,Zdalnie,PLN,01.06.2023,14 572,19 430
+186,C++ Developer,False,Recruby,Budapest,PLN,01.06.2023,10 929,17 001
+187,Senior NLP Data Scientist,True,SEON Technologies,Budapest,PLN,01.06.2023,18 216,24 288
+188,Test Automation Engineer (Java),False,Recruby,Budapest,PLN,01.06.2023,9 715,17 001
+189,C# fejlesztő,False,DLM Solutions Szolgáltató Kft.,Szolnok,PLN,01.06.2023,4 857,9 715
+190,OpenAI API Integration Engineer,False,Dekra Akademie Kft.,Budapest,PLN,01.06.2023,13 358,18 216
+191,Senior Java Developer,True,Recruby,Budapest,PLN,01.06.2023,20 644,31 574
+192,Team Manager (AI/IoT),False,Fitech Sp. ZO.O,Kraków,PLN,01.07.2023,19 000,26 000
+193,AI Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.07.2023,12 000,21 000
+194,Test Engineer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.07.2023,12 000,21 000
+195,Application Support Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.07.2023,12 000,21 000
+196,Java Developer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.07.2023,12 000,22 000
+197,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.07.2023,12 000,16 000
+198,Integration Specialist AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.07.2023,12 000,21 000
+199,Senior Project Manager - Data Labeling,True,Focal Systems,Zdalnie,PLN,01.07.2023,22 000,30 000
+200,Senior AI Engineer,True,Vestigit,Wrocław,PLN,01.07.2023,16 000,21 000
+201,Mid AI Engineer,False,Vestigit,Wrocław,PLN,01.07.2023,12 000,17 000
+202,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.07.2023,44 700,74 600
+203,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.07.2023,10 000,14 000
+204,Mid C++ Embedded Developer,False,Myled,Kraków,PLN,01.07.2023,14 000,20 000
+205,Senior Research Engineer (Optimization),True,SoftServe,Zdalnie,PLN,01.07.2023,20 000,26 000
+206,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.07.2023,92 250,180 811
+207,Senior AI Engineer,True,BCF Software Sp. z o.o.,Poznań,PLN,01.07.2023,16 800,20 160
+208,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.07.2023,74 000,119 000
+209,Senior Research Engineer (Optimization),True,SoftServe,Zdalnie,PLN,01.07.2023,20 000,26 000
+210,AI Engineer,False,CDeX,Zdalnie,PLN,01.07.2023,27 000,32 000
+211,Machine Learning Engineer (XAI project),False,10 Senses,Warszawa,PLN,01.07.2023,25 200,33 600
+212,Senior AI Engineer,True,Vestigit,Wrocław,PLN,01.07.2023,20 000,25 000
+213,Mid AI Engineer,False,Vestigit,Wrocław,PLN,01.07.2023,12 000,17 000
+214,AI Developer,False,lemon.io,Zdalnie,PLN,01.07.2023,20 434,40 869
+215,AI &amp; Math (PhD/ongoing PHD preferable),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.07.2023,16 000,25 000
+216,Lead Python + Django AI,True,Ideamotive,Zdalnie,PLN,01.07.2023,24 000,37 000
+217,Applied Scientist (Mid/Senior),True,Infermedica Sp z.o.o,Zdalnie,PLN,01.07.2023,20 000,25 000
+218,Senior Applied Research Scientist,True,Infermedica Sp z.o.o,Zdalnie,PLN,01.07.2023,20 000,25 000
+219,Remote Backend/AI Engineer (Golang),False,Bash,Zdalnie,PLN,01.07.2023,14 000,24 000
+220,Remote Senior Project Manager - AI,True,Thoriana Sp. z o.o.,Zdalnie,PLN,01.07.2023,17 000,22 000
+221,Junior Analyst - AI,False,Thoriana Sp. z o.o.,Warszawa,PLN,01.07.2023,8 000,12 000
+222,Remote Mid Analyst - AI,False,Thoriana Sp. z o.o.,Zdalnie,PLN,01.07.2023,12 000,16 000
+223,Remote Mid Project Manager - AI,False,Thoriana Sp. z o.o.,Zdalnie,PLN,01.07.2023,12 000,16 000
+224,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.07.2023,30 000,47 000
+225,Mid/Senior MLOps Engineer,True,GetInData | Part of Xebia,Zdalnie,PLN,01.07.2023,16 800,33 600
+226,Data Scientist,False,Sales&amp;More,Zdalnie,PLN,01.07.2023,7 500,15 000
+227,AI SCIENTIST,False,InPhoTech,Ołtarzew,PLN,01.07.2023,30 000,40 000
+228,Machine Learning Engineer,False,Quickchat AI,Warszawa,PLN,01.07.2023,12 260,24 521
+229,Remote Senior NLP Engineer,True,Sigmoidal LLC,Zdalnie,PLN,01.07.2023,24 521,34 534
+230,Python Developer with Computer Vision,False,Numlabs,Zdalnie,PLN,01.07.2023,10 000,15 000
+231,Python Machine Learning Engineer,False,Numlabs,Zdalnie,PLN,01.07.2023,13 000,17 000
+232,Data Scientist,False,Numlabs,Zdalnie,PLN,01.07.2023,10 000,15 000
+233,Programista C++ 17/20,False,Techmo Sp. z o.o.,Kraków,PLN,01.07.2023,13 000,23 000
+234,Remote Mid ML Engineer,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.07.2023,14 000,28 000
+235,Senior AI Software Engineer,True,Fourthwall,Zdalnie,PLN,01.07.2023,22 500,37 000
+236,Remote Mid ML Engineer,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.07.2023,14 000,28 000
+237,Remote Mid AI&amp;ML Data Scientist,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.07.2023,14 000,28 000
+238,Data Scientist/AI Developer,False,Algomine,Zdalnie,PLN,01.07.2023,13 440,25 200
+239,Senior OpenAI &amp; ML Solutions Developer,True,Everguest,Budapest,PLN,01.07.2023,21 180,29 417
+240,Generative AI Expert,True,Deutsche Telekom IT Solutions Hungary,Budapest,PLN,01.07.2023,21 180,29 417
+241,Senior Data Engineer,True,Develocraft,Zdalnie,PLN,01.08.2023,23 000,28 500
+242,AI SCIENTIST,False,InPhoTech,Ołtarzew,PLN,01.08.2023,30 000,40 000
+243,AI Developer,False,lemon.io,Zdalnie,PLN,01.08.2023,20 405,40 810
+244,Machine Learning Engineer,False,Quickchat AI,Warszawa,PLN,01.08.2023,12 243,24 486
+245,Programista C++ 17/20,False,Techmo Sp. z o.o.,Kraków,PLN,01.08.2023,13 000,23 000
+246,Computer Vision Engineer,False,Spline,Zdalnie,PLN,01.08.2023,22 000,25 000
+247,Remote Mid ML Engineer,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.08.2023,14 000,28 000
+248,Senior AI Software Engineer,True,Fourthwall,Zdalnie,PLN,01.08.2023,22 500,37 000
+249,Remote Mid AI&amp;ML Data Scientist,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.08.2023,14 000,28 000
+250,Remote Mid ML Engineer,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.08.2023,14 000,28 000
+251,AI Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.08.2023,12 000,21 000
+252,Test Engineer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.08.2023,12 000,21 000
+253,Application Support Engineer,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.08.2023,12 000,21 000
+254,Java Developer AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.08.2023,12 000,22 000
+255,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.08.2023,12 000,16 000
+256,Integration Specialist AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.08.2023,12 000,21 000
+257,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.08.2023,15 000,25 000
+258,Senior AI Engineer,True,Vestigit,Wrocław,PLN,01.08.2023,23 000,30 000
+259,Mid AI Engineer,False,Vestigit,Wrocław,PLN,01.08.2023,17 000,24 000
+260,Senior Machine Learning Engineer,True,Graylight Imaging Sp. zo.o.,Gliwice,PLN,01.08.2023,12 300,19 900
+261,Senior AI Engineer,True,Vestigit,Wrocław,PLN,01.08.2023,23 000,30 000
+262,Mid AI Engineer,False,Vestigit,Wrocław,PLN,01.08.2023,17 000,24 000
+263,Senior Machine Learning Engineer,True,Graylight Imaging Sp. zo.o.,Gliwice,PLN,01.08.2023,12 300,19 900
+264,Data Scientist/AI Developer,False,Algomine,Zdalnie,PLN,01.08.2023,13 440,25 200
+265,Applied Scientist (Mid/Senior),True,Infermedica Sp z.o.o,Zdalnie,PLN,01.08.2023,20 000,25 000
+266,Senior AI Specialist,True,Grupa Morizon-Gratka Sp. z o.o.,Warszawa,PLN,01.08.2023,14 000,20 000
+267,Mid AI Specialist,False,Grupa Morizon-Gratka Sp. z o.o.,Warszawa,PLN,01.08.2023,10 000,16 000
+268,Mid AI Engineer,False,Flyps,Zdalnie,PLN,01.08.2023,18 000,24 000
+269,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.08.2023,8 400,11 760
+270,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.08.2023,8 400,11 760
+271,Data Scientist,False,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.08.2023,10 249,20 498
+272,Senior Machine Learning Engineer,True,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.08.2023,10 249,20 498
+273,Senior OpenAI &amp; ML Solutions Developer,True,Everguest,Budapest,PLN,01.08.2023,20 498,28 470
+274,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.09.2023,8 400,11 760
+275,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.09.2023,15 000,25 000
+276,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.09.2023,74 000,119 000
+277,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.09.2023,44 700,74 600
+278,Senior Machine Learning Engineer,True,Graylight Imaging Sp. zo.o.,Gliwice,PLN,01.09.2023,12 300,19 900
+279,Mid AI Specialist,False,Grupa Morizon-Gratka Sp. z o.o.,Warszawa,PLN,01.09.2023,10 000,16 000
+280,Senior AI Specialist,True,Grupa Morizon-Gratka Sp. z o.o.,Warszawa,PLN,01.09.2023,14 000,20 000
+281,Tester oprogramowania systemów AI,False,Maxto,Kraków,PLN,01.09.2023,5 000,10 000
+282,Analityka video AI - Programista PHP,False,Maxto,Kraków,PLN,01.09.2023,8 000,16 000
+283,Senior AI Programmer - Gaming,True,ITDS,Warszawa,PLN,01.09.2023,16 800,31 500
+284,Oracle Consultant - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.09.2023,19 000,28 000
+285,Data Scientist - AI,False,Zone IT Sp. z o.o.,Zdalnie,PLN,01.09.2023,19 000,32 000
+286,Python Developer - AI,False,Zone IT Sp. z o.o.,Zdalnie,PLN,01.09.2023,17 000,28 000
+287,Machine Learning Engineer,False,Zone IT Sp. z o.o.,Zdalnie,PLN,01.09.2023,18 000,26 000
+288,Database Expert - AI,True,Zone IT Sp. z o.o.,Zdalnie,PLN,01.09.2023,19 000,28 000
+289,App Architect - AI,False,Zone IT Sp. z o.o.,Zdalnie,PLN,01.09.2023,20 000,25 000
+290,Senior Deep Learning Firmware Engineer,True,EER Poland,Kraków,PLN,01.09.2023,25 000,40 000
+291,Senior Data Scientist REMOTE 🌍,True,Sigmoidal LLC,Zdalnie,PLN,01.09.2023,28 058,34 867
+292,Remote MLOps Engineer,False,LiveChat,Zdalnie,PLN,01.09.2023,18 000,34 000
+293,Machine Learning Engineer,False,Link Group,Kraków,PLN,01.09.2023,22 000,29 000
+294,Senior AI &amp; Math CUDA (C++) Developer,True,Camino Science sp. z o.o.,Zdalnie,PLN,01.09.2023,16 000,19 000
+295,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.09.2023,14 000,24 000
+296,Remote MLOps Engineer / Data Scientist,False,Addepto,Zdalnie,PLN,01.09.2023,12 600,20 160
+297,Remote Senior Data Scientist (Computer Vision),True,Addepto,Zdalnie,PLN,01.09.2023,18 480,28 560
+298,Data Automation &amp; AI Engineer,False,Pitney Bowes Polska Sp. z o.o.,Zdalnie,PLN,01.09.2023,15 000,20 000
+299,AI &amp; BigDate Team Member,False,CIŚ within Narodowe Centrum Badań Jądrowych,Otwock,PLN,01.09.2023,5 000,7 000
+300,Data Scientist (AI),False,Addepto,Zdalnie,PLN,01.09.2023,6 000,12 000
+301,AI &amp; Math CUDA (C++) Developer,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.09.2023,12 000,16 000
+302,AI Engineer,False,CallPage,Zdalnie,PLN,01.09.2023,14 000,24 000
+303,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie,PLN,01.09.2023,17 000,28 000
+304,Mid AI Engineer,False,Firmao CRM,Łódź,PLN,01.09.2023,13 000,20 000
+305,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.09.2023,92 250,180 811
+306,Senior Data Scientist,True,Focal Systems,Zdalnie,PLN,01.09.2023,25 000,35 000
+307,EDGE Machine Learning Engineer,False,MEV,Zdalnie,PLN,01.09.2023,18 568,30 947
+308,Data Scientist/AI Developer,False,Algomine,Zdalnie,PLN,01.09.2023,13 440,25 200
+309,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.09.2023,18 000,
+310,Computer Vision Engineer,False,Spline,Zdalnie,PLN,01.09.2023,22 000,25 000
+311,Data Engineer Azure,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.09.2023,18 000,26 000
+312,Senior AI Engineer,True,Neontri,Zdalnie,PLN,01.09.2023,33 600,38 640
+313,"Python, AI Developer",False,VUMO,Kraków,PLN,01.09.2023,11 000,14 000
+314,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.09.2023,22 680,31 584
+315,AI Engineer,False,VUMO,Kraków,PLN,01.09.2023,16 000,20 000
+316,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.09.2023,20 000,28 000
+317,Mid AI Engineer,False,Flyps,Zdalnie,PLN,01.09.2023,18 000,24 000
+318,Senior AI Engineer,True,Flyps,Zdalnie,PLN,01.09.2023,25 000,30 000
+319,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.09.2023,8 400,11 760
+320,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.09.2023,8 400,11 760
+321,Junior Data Ingestion Engineer,False,Sigmoidal LLC,Wrocław,PLN,01.09.2023,7 000,12 000
+322,Senior Machine Learning Engineer,True,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.09.2023,10 490,20 980
+323,Data Scientist,False,"Secret Sauce Partners, Inc.",Zdalnie,PLN,01.09.2023,10 490,20 980
+324,Remote Data Scientist,False,Addepto,Zdalnie,PLN,01.10.2023,12 600,18 480
+325,Data Automation &amp; AI Engineer,False,Pitney Bowes Polska Sp. z o.o.,Zdalnie,PLN,01.10.2023,15 000,20 000
+326,AI &amp; BigDate Team Member,False,CIŚ within Narodowe Centrum Badań Jądrowych,Otwock,PLN,01.10.2023,5 000,7 000
+327,Data Scientist (AI),False,Addepto,Zdalnie,PLN,01.10.2023,6 000,12 000
+328,Tester oprogramowania systemów AI,False,Maxto,Kraków,PLN,01.10.2023,5 000,10 000
+329,Analityka video AI - Programista PHP,False,Maxto,Kraków,PLN,01.10.2023,8 000,16 000
+330,AI Engineer,False,CallPage,Zdalnie,PLN,01.10.2023,14 000,24 000
+331,Konsultant Techniczny Samba.ai,False,Samba.ai,Wrocław,PLN,01.10.2023,6 000,9 000
+332,Senior Deep Learning Firmware Engineer,True,EER Poland,Kraków,PLN,01.10.2023,25 000,40 000
+333,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie,PLN,01.10.2023,17 000,28 000
+334,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.10.2023,18 000,28 000
+335,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.10.2023,18 000,26 000
+336,Senior Data Scientist,True,in4ge sp. z o.o.,Zdalnie,PLN,01.10.2023,20 000,28 000
+337,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.10.2023,74 000,119 000
+338,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.10.2023,44 700,74 600
+339,Senior MLOps Engineer with Azure,True,Nordcloud,Zdalnie,PLN,01.10.2023,27 000,32 000
+340,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.10.2023,92 250,180 811
+341,Senior Data Scientist,True,Focal Systems,Zdalnie,PLN,01.10.2023,25 000,35 000
+342,Directory Development Executive,False,ENF Ltd.,Zdalnie,PLN,01.10.2023,5 562,7 880
+343,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.10.2023,30 000,47 000
+344,Machine Learning Researcher,False,RTB House,Zdalnie,PLN,01.10.2023,30 000,47 000
+345,EDGE Machine Learning Engineer,False,MEV,Zdalnie,PLN,01.10.2023,19 663,32 772
+346,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.10.2023,18 000,
+347,Senior Research Engineer (Optimization),True,SoftServe,Zdalnie,PLN,01.10.2023,20 000,26 000
+348,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.10.2023,9 000,14 000
+349,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.10.2023,8 000,9 000
+350,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.10.2023,15 000,16 000
+351,AI Engineer,False,Ringier Axel Springer Tech,Kraków,PLN,01.10.2023,11 700,19 600
+352,Data Engineer Azure,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.10.2023,18 000,26 000
+353,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.10.2023,22 680,31 584
+354,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.10.2023,20 000,28 000
+355,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.10.2023,14 000,24 000
+356,AI Engineer,False,Ness Solution Sp. z o. o.,Zdalnie,PLN,01.10.2023,18 480,36 960
+357,Technical Team Leader | ML/AI,True,Open Nexus sp. z o.o.,Poznań,PLN,01.10.2023,23 000,27 000
+358,Remote MLOps Engineer / Data Scientist,False,Addepto,Zdalnie,PLN,01.10.2023,12 600,20 160
+359,Junior Data Ingestion Engineer,False,Sigmoidal LLC,Wrocław,PLN,01.10.2023,7 000,12 000
+360,Junior Machine Learning,False,Mindpal,Zdalnie,PLN,01.10.2023,8 400,11 760
+361,Senior Java Developer,True,Recruby Hungary Kft,Budapest,PLN,01.10.2023,20 145,30 810
+362,Senior Machine Learning Engineer,True,Objectivity - part of Accenture,Zdalnie,PLN,01.11.2023,23 520,30 240
+363,Senior Data Scientist,True,Reply Polska,Katowice,PLN,01.11.2023,16 000,22 000
+364,Senior ML (NLP) Engineer,True,Zowie,Zdalnie,PLN,01.11.2023,15 000,30 000
+365,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.11.2023,74 000,119 000
+366,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.11.2023,44 700,74 600
+367,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie,PLN,01.11.2023,17 000,28 000
+368,Senior Data Scientist REMOTE 🌍,True,Sigmoidal LLC,Zdalnie,PLN,01.11.2023,28 462,35 369
+369,Team Manager (AI/IoT),False,Fitech Sp. ZO.O,Kraków,PLN,01.11.2023,19 000,26 000
+370,Data Engineer,False,Develocraft,Zdalnie,PLN,01.11.2023,17 000,22 000
+371,Senior Data Engineer,True,Develocraft,Zdalnie,PLN,01.11.2023,23 000,28 500
+372,Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.11.2023,28 500,35 000
+373,Senior Python Developer (AI/ML/MLOps),True,Link Group,Kraków,PLN,01.11.2023,23 000,28 000
+374,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.11.2023,9 000,14 000
+375,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.11.2023,15 000,16 000
+376,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.11.2023,8 000,9 000
+377,Kierownik B+R z doświadczeniem IoT lub AI,False,Ingenious Lab sp. z o. o.,Zdalnie,PLN,01.11.2023,16 000,22 000
+378,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.11.2023,20 000,28 000
+379,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.11.2023,22 680,31 584
+380,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.11.2023,14 000,24 000
+381,AI Engineer (Generative AI &amp; NLP),False,Altimetrik Poland,Zdalnie,PLN,01.11.2023,22 000,28 000
+382,Data Scientist (Junior/Mid),False,Addepto,Zdalnie,PLN,01.11.2023,7 000,12 600
+383,Expert AI Engineer (ID 784),True,Infopulse,Zdalnie,PLN,01.11.2023,28 056,34 944
+384,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.11.2023,18 000,
+385,Konsultant Techniczny Samba.ai,False,Samba.ai,Wrocław,PLN,01.11.2023,6 000,9 000
+386,AI Engineer,False,Ness Solution Sp. z o. o.,Zdalnie,PLN,01.11.2023,18 480,36 960
+387,Technical Team Leader | ML/AI,True,Open Nexus sp. z o.o.,Poznań,PLN,01.11.2023,23 000,27 000
+388,Test Engineer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.11.2023,12 000,21 000
+389,Tester (Pentester) - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.11.2023,10 000,18 000
+390,Oracle Specialist - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.11.2023,19 000,28 000
+391,Python Developer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.11.2023,17 000,28 000
+392,Data Scientist,False,Numlabs,Zdalnie,PLN,01.11.2023,9 000,14 000
+393,Machine Learning Engineer,False,Numlabs,Zdalnie,PLN,01.11.2023,8 500,14 500
+394,Senior Machine Learning Engineer,True,Numlabs,Zdalnie,PLN,01.11.2023,14 500,18 500
+395,Naukowiec -praca zdalna,False,Canon Ophthalmic Technologies sp. zoo,Zdalnie,PLN,01.11.2023,7 000,9 000
+396,Lead MLOps Engineer (Nvidia AI Stack Expert),True,SoftServe,Zdalnie,PLN,01.11.2023,28 000,34 000
+397,MLOps Engineer,False,SoftServe,Zdalnie,PLN,01.11.2023,21 000,27 000
+398,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.11.2023,18 000,28 000
+399,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.11.2023,18 000,26 000
+400,Senior Data Scientist,True,in4ge sp. z o.o.,Zdalnie,PLN,01.11.2023,20 000,28 000
+401,Data Scientist ( Mid / Senior ),True,Addepto,Zdalnie,PLN,01.11.2023,13 000,26 000
+402,Machine Learning Ops Engineer,False,ASTEK Polska,Zdalnie,PLN,01.11.2023,16 800,23 100
+403,ML (Python + NLP) Engineer,False,SFox,Zdalnie,PLN,01.11.2023,13 370,22 284
+404,Directory Development Executive,False,ENF Ltd.,Zdalnie,PLN,01.11.2023,5 348,7 576
+405,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.11.2023,92 250,180 811
+406,Junior AI Engineer,False,INK Solutions Z.o.o,Warszawa,PLN,01.11.2023,4 000,
+407,MLOps Engineer,False,SoftServe,Zdalnie,PLN,01.12.2023,21 000,27 000
+408,Lead MLOps Engineer (Nvidia AI Stack Expert),True,SoftServe,Zdalnie,PLN,01.12.2023,28 000,34 000
+409,AI DevOps Engineer,False,Lingaro,Zdalnie,PLN,01.12.2023,16 800,20 160
+410,Senior Data Scientist,True,Reply Polska,Katowice,PLN,01.12.2023,16 000,22 000
+411,Data Scientist,False,Objectivity - part of Accenture,Zdalnie,PLN,01.12.2023,16 800,25 200
+412,Data Science Manager,False,Addepto,Zdalnie,PLN,01.12.2023,18 000,30 000
+413,Power Automate Expert,True,Hemmersbach,Zdalnie,PLN,01.12.2023,13 440,15 960
+414,Senior MLOps Engineer,True,Devire,Zdalnie,PLN,01.12.2023,26 880,30 240
+415,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.12.2023,74 000,119 000
+416,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.12.2023,44 700,74 600
+417,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,22 000,28 000
+418,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,20 000,26 000
+419,Inżynier Uczenia Maszynowego,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.12.2023,14 000,28 000
+420,Python Developer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,17 000,28 000
+421,Tester (Pentester) - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,10 000,18 000
+422,Oracle Specialist - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,19 000,28 000
+423,Test Engineer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,12 000,21 000
+424,Data Scientist,False,Numlabs,Zdalnie,PLN,01.12.2023,9 000,14 000
+425,Machine Learning Engineer,False,Numlabs,Zdalnie,PLN,01.12.2023,8 500,14 500
+426,Senior Machine Learning Engineer,True,Numlabs,Zdalnie,PLN,01.12.2023,14 500,18 500
+427,Principal Software Engineer,False,AI REV,Zdalnie,PLN,01.12.2023,26 880,43 680
+428,AI &amp; Math CUDA (C++) Developer,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,12 000,16 000
+429,Senior AI &amp; Math CUDA (C++) Developer,True,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,16 000,19 000
+430,Computer Vision Engineer,False,Spline,Zdalnie,PLN,01.12.2023,22 000,25 000
+431,Konsultant Techniczny Samba.ai,False,Samba.ai,Wrocław,PLN,01.12.2023,6 000,9 000
+432,Azure AI Solutions Consultant (OpenAI),False,Elitmind,Zdalnie,PLN,01.12.2023,15 960,29 904
+433,Data Scientist ( Mid / Senior ),True,Addepto,Zdalnie,PLN,01.12.2023,13 000,26 000
+434,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.12.2023,30 000,47 000
+435,ML (Python + NLP) Engineer,False,SFox,Zdalnie,PLN,01.12.2023,13 048,21 747
+436,Directory Development Executive,False,ENF Ltd.,Zdalnie,PLN,01.12.2023,5 219,7 393
+437,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.12.2023,92 250,180 811
+438,Senior Data Scientist (Linear Optimization),True,hubQuest,Zdalnie,PLN,01.12.2023,28 500,37 000
+439,Junior Data Scientist,False,datanalytics DA GmbH,Zdalnie,PLN,01.12.2023,29 228,40 188
+440,Senior Machine Learning Engineer,True,Objectivity - part of Accenture,Zdalnie,PLN,01.12.2023,23 520,30 240
+441,Senior ML (NLP) Engineer,True,Zowie,Zdalnie,PLN,01.12.2023,15 000,30 000
+442,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie,PLN,01.12.2023,17 000,28 000
+443,Senior Data Scientist REMOTE 🌍,True,Sigmoidal LLC,Zdalnie,PLN,01.12.2023,27 138,33 723
+444,Team Manager (AI/IoT),False,Fitech Sp. ZO.O,Kraków,PLN,01.12.2023,19 000,26 000
+445,AI Solutions Delivery Officer,False,ITDS,Riyadh,PLN,01.12.2023,55 000,70 000
+446,Kierownik B+R z doświadczeniem IoT lub AI,False,Ingenious Lab sp. z o. o.,Zdalnie,PLN,01.12.2023,16 000,22 000
+447,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.12.2023,20 000,28 000
+448,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.12.2023,22 680,31 584
+449,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.12.2023,14 000,24 000
+450,AI Engineer (Generative AI &amp; NLP),False,Altimetrik Poland,Zdalnie,PLN,01.12.2023,22 000,28 000
+451,Data Scientist (Junior/Mid),False,Addepto,Zdalnie,PLN,01.12.2023,7 000,12 600
+452,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.12.2023,18 000,
+453,Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.12.2023,28 500,37 000
+454,AI Engineer,False,Ness Solution Sp. z o. o.,Zdalnie,PLN,01.12.2023,18 480,36 960
+455,Senior AI Engineer,True,Lingaro,Zdalnie,PLN,01.12.2023,25 200,33 600
+456,AI Engineer,False,Lingaro,Zdalnie,PLN,01.12.2023,15 120,19 320
+457,MLOps Engineer,False,SoftServe,Zdalnie,PLN,01.12.2023,21 000,27 000
+458,Lead MLOps Engineer (Nvidia AI Stack Expert),True,SoftServe,Zdalnie,PLN,01.12.2023,28 000,34 000
+459,AI DevOps Engineer,False,Lingaro,Zdalnie,PLN,01.12.2023,16 800,20 160
+460,Senior Data Scientist,True,Reply Polska,Katowice,PLN,01.12.2023,16 000,22 000
+461,Data Scientist,False,Objectivity - part of Accenture,Zdalnie,PLN,01.12.2023,16 800,25 200
+462,Data Science Manager,False,Addepto,Zdalnie,PLN,01.12.2023,18 000,30 000
+463,Power Automate Expert,True,Hemmersbach,Zdalnie,PLN,01.12.2023,13 440,15 960
+464,Senior MLOps Engineer,True,Devire,Zdalnie,PLN,01.12.2023,26 880,30 240
+465,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,PLN,01.12.2023,74 000,119 000
+466,Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.12.2023,44 700,74 600
+467,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,22 000,28 000
+468,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,20 000,26 000
+469,Inżynier Uczenia Maszynowego,False,Centralny Ośrodek Informatyki,Zdalnie,PLN,01.12.2023,14 000,28 000
+470,Python Developer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,17 000,28 000
+471,Tester (Pentester) - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,10 000,18 000
+472,Oracle Specialist - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,19 000,28 000
+473,Test Engineer - AI,False,Zone IT Sp. z o.o.,Wrocław,PLN,01.12.2023,12 000,21 000
+474,Data Scientist,False,Numlabs,Zdalnie,PLN,01.12.2023,9 000,14 000
+475,Machine Learning Engineer,False,Numlabs,Zdalnie,PLN,01.12.2023,8 500,14 500
+476,Senior Machine Learning Engineer,True,Numlabs,Zdalnie,PLN,01.12.2023,14 500,18 500
+477,Principal Software Engineer,False,AI REV,Zdalnie,PLN,01.12.2023,26 880,43 680
+478,AI &amp; Math CUDA (C++) Developer,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,12 000,16 000
+479,Senior AI &amp; Math CUDA (C++) Developer,True,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,16 000,19 000
+480,Computer Vision Engineer,False,Spline,Zdalnie,PLN,01.12.2023,22 000,25 000
+481,Konsultant Techniczny Samba.ai,False,Samba.ai,Wrocław,PLN,01.12.2023,6 000,9 000
+482,Azure AI Solutions Consultant (OpenAI),False,Elitmind,Zdalnie,PLN,01.12.2023,15 960,29 904
+483,Data Scientist ( Mid / Senior ),True,Addepto,Zdalnie,PLN,01.12.2023,13 000,26 000
+484,Machine Learning Engineer,False,RTB House,Zdalnie,PLN,01.12.2023,30 000,47 000
+485,ML (Python + NLP) Engineer,False,SFox,Zdalnie,PLN,01.12.2023,13 048,21 747
+486,Directory Development Executive,False,ENF Ltd.,Zdalnie,PLN,01.12.2023,5 219,7 393
+487,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,PLN,01.12.2023,92 250,180 811
+488,Senior Data Scientist (Linear Optimization),True,hubQuest,Zdalnie,PLN,01.12.2023,28 500,37 000
+489,Junior Data Scientist,False,datanalytics DA GmbH,Zdalnie,PLN,01.12.2023,29 228,40 188
+490,Senior Machine Learning Engineer,True,Objectivity - part of Accenture,Zdalnie,PLN,01.12.2023,23 520,30 240
+491,Senior ML (NLP) Engineer,True,Zowie,Zdalnie,PLN,01.12.2023,15 000,30 000
+492,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie,PLN,01.12.2023,17 000,28 000
+493,Senior Data Scientist REMOTE 🌍,True,Sigmoidal LLC,Zdalnie,PLN,01.12.2023,27 138,33 723
+494,Team Manager (AI/IoT),False,Fitech Sp. ZO.O,Kraków,PLN,01.12.2023,19 000,26 000
+495,AI Solutions Delivery Officer,False,ITDS,Riyadh,PLN,01.12.2023,55 000,70 000
+496,Kierownik B+R z doświadczeniem IoT lub AI,False,Ingenious Lab sp. z o. o.,Zdalnie,PLN,01.12.2023,16 000,22 000
+497,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.12.2023,20 000,28 000
+498,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.12.2023,22 680,31 584
+499,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.12.2023,14 000,24 000
+500,AI Engineer (Generative AI &amp; NLP),False,Altimetrik Poland,Zdalnie,PLN,01.12.2023,22 000,28 000
+501,Data Scientist (Junior/Mid),False,Addepto,Zdalnie,PLN,01.12.2023,7 000,12 600
+502,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.12.2023,18 000,
+503,Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.12.2023,28 500,37 000
+504,AI Engineer,False,Ness Solution Sp. z o. o.,Zdalnie,PLN,01.12.2023,18 480,36 960
+505,Senior AI Engineer,True,Lingaro,Zdalnie,PLN,01.12.2023,25 200,33 600
+506,AI Engineer,False,Lingaro,Zdalnie,PLN,01.12.2023,15 120,19 320
+507,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,18 000,28 000
+508,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,18 000,26 000
+509,Senior Data Scientist,True,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,20 000,28 000
+510,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,9 000,14 000
+511,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,15 000,16 000
+512,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,8 000,9 000
+513,Senior Data Scientist,True,SKY ENGINE AI,Warszawa,PLN,01.12.2023,20 000,28 000
+514,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,PLN,01.12.2023,22 680,31 584
+515,NLP Engineer,False,Business Online Services,Zdalnie,PLN,01.12.2023,14 000,24 000
+516,AI Engineer (Generative AI &amp; NLP),False,Altimetrik Poland,Zdalnie,PLN,01.12.2023,22 000,28 000
+517,Data Scientist (Junior/Mid),False,Addepto,Zdalnie,PLN,01.12.2023,7 000,12 600
+518,Senior ML Voice - Part Time,True,AI REV,Zdalnie,PLN,01.12.2023,18 000,
+519,Senior Data Scientist,True,hubQuest,Zdalnie,PLN,01.12.2023,28 500,37 000
+520,AI Engineer,False,Ness Solution Sp. z o. o.,Zdalnie,PLN,01.12.2023,18 480,36 960
+521,Senior AI Engineer,True,Lingaro,Zdalnie,PLN,01.12.2023,25 200,33 600
+522,AI Engineer,False,Lingaro,Zdalnie,PLN,01.12.2023,15 120,19 320
+523,Deep Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,18 000,28 000
+524,Machine Learning Engineer,False,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,18 000,26 000
+525,Senior Data Scientist,True,in4ge sp. z o.o.,Zdalnie,PLN,01.12.2023,20 000,28 000
+526,AI &amp; Math,False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,9 000,14 000
+527,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,15 000,16 000
+528,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie,PLN,01.12.2023,8 000,9 000
